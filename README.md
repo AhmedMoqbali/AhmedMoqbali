@@ -3,7 +3,7 @@
 
 Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AhmedMoqbali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-al-moqbali//)  
+
 
 
 ### Languages and Tools:
@@ -45,3 +45,7 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 
 <img align="left" alt="linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="kibana" width="40px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" style="padding-right:10px;" />
+<br><br>
+<hr>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AhmedMoqbali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-al-moqbali//)  
