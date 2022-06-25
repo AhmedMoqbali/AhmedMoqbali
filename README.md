@@ -10,27 +10,23 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 
 <h4>Process Automation:</h4>
 
-        <figure style="display: inline-block;"><img src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/uipath.png" alt="UiPath" width="100" height="40" />
-            <figcaption style=" padding: 2px;text-align: center;"><b>UiPath</b></figcaption>
-        </figure>
-        <figure style="display: inline-block;">
-            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-                alt="selenium" width="40" height="40" />
-            <figcaption style=" padding: 2px;text-align: center;"><b>selenium</b></figcaption>
-        </figure>
+<figure style="display: inline-block;"><img src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/uipath.png" alt="UiPath" width="100" height="40" />
+<figcaption style=" padding: 2px;text-align: center;"><b>UiPath</b></figcaption>
+</figure>
+<figure style="display: inline-block;">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
+<figcaption style=" padding: 2px;text-align: center;"><b>selenium</b></figcaption>
+</figure>
 
-
-    <h4>Backend:</h4>
-        <figure style="display: inline-block;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" />
-            <figcaption style=" padding: 2px;text-align: center;"><b>Python</b></figcaption>
-        </figure>
-        <figure style="display: inline-block;">
-            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-                height="40" />
-            <figcaption style=" padding: 2px;text-align: center;"><b>flask</b></figcaption>
-        </figure>
+<h4>Backend:</h4>
+<figure style="display: inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+<figcaption style=" padding: 2px;text-align: center;"><b>Python</b></figcaption>
+</figure>
+<figure style="display: inline-block;">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
+figcaption style=" padding: 2px;text-align: center;"><b>flask</b></figcaption>
+</figure>
         <figure style="display: inline-block;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
                 width="40" height="40" />
