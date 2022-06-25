@@ -10,7 +10,7 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 
 
 #### Process Automation:
-<img align="left" alt="UiPath" width="40px" src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/uipath.png" style="padding-right:10px;" />
+<img align="left" alt="UiPath" width="100px" src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/uipath.png" style="padding-right:10px;" />
 <img align="left" alt="selenium" width="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="padding-right:10px;" />
 <br><br>
 
@@ -19,6 +19,8 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 
 <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="flask" width="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="fastapi" width="40px" src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/fastapi.png" style="padding-right:10px;" />
+<br><br>
 <img align="left" alt="php" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
