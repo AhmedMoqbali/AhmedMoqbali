@@ -12,15 +12,8 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 
 #### Process Automation:
 
-        <figure style="display: inline-block;">
             <img src="img/uipath.png" alt="sqlite" width="100" height="40" />
-            <figcaption style=" padding: 2px;text-align: center;"><b>UiPath</b></figcaption>
-        </figure>
-        <figure style="display: inline-block;">
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-                alt="selenium" width="40" height="40" />
-            <figcaption style=" padding: 2px;text-align: center;"><b>selenium</b></figcaption>
-        </figure>
 
 #### Backend:
         <figure style="display: inline-block;">
