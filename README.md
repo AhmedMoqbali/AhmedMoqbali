@@ -9,8 +9,6 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
     <h3 align="left">Languages and Tools:</h3>
 
 
-    <p align="left">
-
     <h4>
         Process Automation:
     </h4>
@@ -110,4 +108,3 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
                 width="40" height="40" />
             <figcaption style=" padding: 2px;text-align: center;"><b>kibana</b></figcaption>
     </figure>
-    </p>
