@@ -1,16 +1,14 @@
-### Hi, I'm Ahmed Al-Moqbali 👋
-#### I'm currently working as RPA Developer/Solution Architect at Rihal.om
-
-Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
+# Hi, I'm Ahmed Al-Moqbali 👋
 
 
+## I'm currently working as RPA Developer/Solution Architect
 
 
 ### Languages and Tools:
 
 
 #### Process Automation:
-<img align="left" alt="UiPath" width="100px" src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/uipath.png" style="padding-right:10px;" />
+<img align="left" alt="UiPath" width="40px" src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/uipath.png" style="padding-right:10px;" />
 <img align="left" alt="selenium" width="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="padding-right:10px;" />
 <br><br>
 
@@ -46,6 +44,9 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 <img align="left" alt="linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="kibana" width="40px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" style="padding-right:10px;" />
 <br><br>
+
+
 <hr>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AhmedMoqbali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-al-moqbali//)  
