@@ -20,7 +20,6 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="flask" width="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="fastapi" width="40px" src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/fastapi.png" style="padding-right:10px;" />
-<br><br>
 <img align="left" alt="php" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
