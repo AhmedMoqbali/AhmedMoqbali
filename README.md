@@ -9,9 +9,7 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
     <h3 align="left">Languages and Tools:</h3>
 
 
-    <h4>
-        Process Automation:
-    </h4>
+    <h4>Process Automation:</h4>
 
         <figure style="display: inline-block;"><img src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/uipath.png" alt="UiPath" width="100" height="40" />
             <figcaption style=" padding: 2px;text-align: center;"><b>UiPath</b></figcaption>
@@ -23,9 +21,7 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
         </figure>
 
 
-    <h4>
-        Backend::
-    </h4>
+    <h4>Backend:</h4>
         <figure style="display: inline-block;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python" width="40" height="40" />
@@ -51,9 +47,7 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
                 alt="csharp" width="40" height="40" />
             <figcaption style=" padding: 2px;text-align: center;"><b>C#</b></figcaption>
         </figure>
-    <h4>
-        Frontend:
-    </h4>
+    <h4>Frontend:</h4>
         <figure style="display: inline-block;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                 alt="html5" width="40" height="40" />
@@ -74,9 +68,7 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
                 alt="bootstrap" width="40" height="40" />
             <figcaption style=" padding: 2px;text-align: center;"><b>bootstrap</b></figcaption>
         </figure>
-    <h4>
-        Databases:
-    </h4>
+    <h4>Databases:</h4>
     <figure style="display: inline-block;">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
             height="40" />
@@ -95,9 +87,7 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
         <figcaption style=" padding: 2px;text-align: center;"><b>sqlite</b></figcaption>
     </figure>
 
-    <h4>
-        Others:
-    </h4>
+    <h4>Others:</h4>
     <figure style="display: inline-block;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" />
