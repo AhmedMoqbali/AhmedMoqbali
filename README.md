@@ -12,7 +12,7 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 
 #### Process Automation:
 
-            <img src="img/uipath.png" alt="sqlite" width="100" height="40" />
+            <img src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/uipath.png" alt="sqlite" width="100" height="40" />
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
 
 #### Backend:
