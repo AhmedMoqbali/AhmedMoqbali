@@ -8,8 +8,14 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+#### Process Automation:
+
+
+<figure align="left" style="display: inline-block;"><img src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/uipath.png" alt="UiPath" width="100"height="40" />
+<figcaption style=" padding: 2px;text-align: center;"><b>UiPath</b></figcaption>
+</figure>
+<figure align="left" style="display: inline-block;">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
+<figcaption style=" padding: 2px;text-align: center;"><b>selenium</b></figcaption>
+</figure>
