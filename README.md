@@ -11,6 +11,7 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 #### Process Automation:
 <img align="left" alt="UiPath" width="26px" src="https://github.com/AhmedMoqbali/AhmedMoqbali/blob/main/img/uipath.png" style="padding-right:10px;" />
 <img align="left" alt="selenium" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="padding-right:10px;" />
+<br>
 
 #### Backend:
 
@@ -21,7 +22,7 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 
-
+<br>
 #### Frontend:
 
 
@@ -30,14 +31,14 @@ Skills: UiPath / Python / Flask / Fast API / PHP / SQL / HTML / JavaScript
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="padding-right:10px;" />
 
-
+<br>
 #### Databases:
 
 <img align="left" alt="SQL" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="sqlite" width="26px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="padding-right:10px;" />
 
-
+<br>
 #### Others:
 
 <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
